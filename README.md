@@ -76,7 +76,8 @@ python saureyy.py
 
 Here's a sneak peek of what you can expect:
 
-![Sample Screenshot](https://github.com/Saureyy/INSTA/assets/136049517/fac5bf57-1242-4f49-b89f-17b91a23abae)
+![received_434508102526515](https://github.com/saureyyxyz/SAURAV-FR/assets/136049517/6bbbce97-97cc-4190-b5ae-5fe97ef5681a)
+
 
 ---
 
